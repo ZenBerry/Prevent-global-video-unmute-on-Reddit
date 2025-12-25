@@ -1,0 +1,1 @@
+chrome://extensions/ > 'developer mode' toggle in the top right corner > 'load unpacked' button in the top left corner
